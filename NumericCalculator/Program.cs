@@ -10,4 +10,4 @@ number2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("You've selected " + number2 + " as your second number.");
 
 int result = number1 * number2;
-Console.WriteLine("The result of " + number1 + "*" + number2 + " is " + result);
+Console.WriteLine("The result of the operation: " + number1 + "*" + number2 + " is " + result);
